@@ -341,6 +341,7 @@ There are four types of errors the API will return:
   },
   "success": true
 }
+```
 ## Testing
 
 To deploy the tests, run
